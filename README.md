@@ -31,7 +31,7 @@ The code is written in Python 3.8 and requires the following libraries:
 To get the code running, once the file has been downloaded, open it on VS Code
 and ensure you have jupyter downloaded on your VS Code. Then just change the 
 file directories in all source code files to the correct path in your machine. 
-All of the code files should be able to run individually, however, the Keppers.-
-ipynb file must be run in order as there was minor issues creating the Keeper_T-
-emperature.csv file.
+All of the code files should be able to run individually, however, the 
+Keppers.ipynb file must be run in order as there was minor issues creating the 
+Keeper_Temperature.csv file.
 
